@@ -116,3 +116,5 @@ The team can be contacted in the #rhdp-website slack channel or #DXP-Developers 
 ### DevOps
 
 * [Rob Coffman](https://rover.redhat.com/people/profile/rcoffman)
+
+Thank you
